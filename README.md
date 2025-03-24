@@ -14,6 +14,12 @@ sudo apt install python3
 sudo apt install screen
 ```
 
+then clone this repo
+
+```bash
+git clone https://github.com/Theshaho/github-auto-commit && cd github-auto-commit
+```
+
 then change the username and password and repo_name in the autocommit.py file
 
 ```bash
