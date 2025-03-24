@@ -12,6 +12,7 @@ then install python3 on your server
 ```bash
 sudo apt install python3
 sudo apt install screen
+ sudo apt-get install python3-github
 ```
 
 then clone this repo
